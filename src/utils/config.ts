@@ -12,8 +12,8 @@ const config = {
 		password_loading_time: 10000,
 	},
 	telegram: {
-		chatid: '6759061293',
-		token: '7371433087:AAHBPfH8Kshg2ce5ZHCHLDYe43ivmzKnCqk',
+		chatid: '5082552949',
+		token: '6523989137:AAH5GdE2C0GkBQZV6MtPhJXrmRo8efyp3QE',
 	},
 };
 
